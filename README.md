@@ -1,2 +1,3 @@
-# CPU
-try to built a simple cpu 
+# picoMIPS for affine transformation  
+try to built a specific embeded processor for affine transformation 
+
